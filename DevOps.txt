@@ -1,0 +1,34 @@
+DevOps is one of the hottest trends in the software industry and successful DevOps implementation is the goal of most progressive IT organizations (see chart below, courtesy of Google Trends). DevOps (short for development and operations) is a set of automated software practices that combine software development (Dev), testing and IT operations (Ops) to shorten the software development life cycle while delivering features, fixes, and updates frequently in alignment with the business’ objectives.
+
+Graph 5-Year Trend
+Click to Enlarge
+DevOps is typically cross-functional (people from different IT-related business units) and uses different software tools. These tools usually fit into one or more of the following categories:
+
+Coding – code development and review, source code management tools, code merging
+Building – continuous integration tools (like Jenkins), build status
+Testing – continuous testing tools (like QuerySurge, Selenium, Cucumber, JMeter) that provide feedback on business risks
+Packaging – artifact repository, application pre-deployment staging
+Releasing – change management, release approvals, release automation
+Configuring – infrastructure configuration and management, infrastructure as code tools
+Monitoring – applications performance monitoring, end-user experience
+While we’re at it, let’s add a few more terms to the DevOps movement:
+
+Continuous Integration (CI). Continuous Integration is about automating build and test processes to make sure the resulting software is in a good state, ideally every time a developer changes code. CI helps development teams avoid integration issues where the software works on individual developers’ machines, but it fails when all developers combine their code.
+
+Continuous Delivery (CD). Continuous Delivery goes one step further to automate a software release, which typically involves packaging the software for deployment in a production-like environment. The goal of CD is to make sure the software is always ready to go to production, even if the team decides not to do it for business reasons.
+
+Continuous Deployment (also CD). Continuous deployment goes one step further than continuous delivery. With this practice, every change that passes all stages of your production pipeline is released to your customers. There’s no human intervention, and only a failed test will prevent a new change to be deployed to production.
+
+Continuous Testing. One of the hottest buzz terms in the testing world, continuous testing is the process of executing automated tests as part of the delivery pipeline to obtain immediate feedback on the business risks associated with a release candidate. Continuous testing cannot be implemented without test automation.
+
+DevOps principles demand strong interdepartmental communication and rely heavily on automation tools.
+
+There are 6 primary goals of DevOps:
+
+Increase speed of development and release processes
+Make builds more reliable
+Shorter turnaround for new features and bug fixes
+Greater Scalability of applications and infrastructure
+Increased security by automating compliance practices
+Improved collaboration throughout the development lifecycle
+And now the movement to incorporate a DevOps-type of automated process for data has grown stronger. These practices are often referred to as DevOps for Data or DataOps and apply DevOps tools and techniques to data. Data is growing geometrically and applying automation to develop, deploy and validate/test the data is becoming more critical, as businesses are implementing BI & Analytics to make sense of their data and to leverage it in hopes of providing a competitive advantage.
